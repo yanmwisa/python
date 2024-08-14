@@ -1,5 +1,5 @@
 # Write your code here 👇
-for number in range(1,101):
+for number in range(1,20):
   
   
   if number % 5 ==0 and number % 3 ==0:
